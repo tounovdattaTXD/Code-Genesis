@@ -81,7 +81,7 @@ int main()
             printf("July %d, %d", dd, yyyy);
         }
         break;
-        case 08:
+        case 8:
         if(dd>31)
         {
             printf("Enter a valid date");
@@ -91,7 +91,7 @@ int main()
             printf("August %d, %d", dd, yyyy);
         }
         break;
-        case 09:
+        case 9:
         if(dd>30)
         {
             printf("Enter a valid date");

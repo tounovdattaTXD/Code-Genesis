@@ -34,7 +34,7 @@ void main()
        surchg = (gramt*15)/100;
    }
    netamt = gramt+surchg;
-   printf("\nElectricity Bill\n");
+   printf("\nWater Bill\n");
    printf("Customer ID                         :%d\n",custid);
    printf("Customer Name                       :%s\n",conname);
    printf("unit Consumed                       :%d\n",conunit);
